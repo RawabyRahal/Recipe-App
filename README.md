@@ -1,6 +1,7 @@
 # Recipe App 🍞 🍰 🌮
 
-Welcome to the Recipe App! This app allows users to search for recipes that contain a specific ingredient specific ingredients or multiple ingredients and displays them.
+Welcome to the Recipe App!
+This app allows users to search for recipes that contain a specific ingredient specific ingredients or multiple ingredients and displays them.
 
 ## Installation
 
