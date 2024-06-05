@@ -2,8 +2,28 @@
 
 Welcome to the Recipe App! This app allows users to search for recipes that contain a specific ingredient specific ingredients or multiple ingredients and displays them.
 
-## Installation:
-To use the Recipe App, follow these steps:
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd Recipe-App`
-3. Open the index.html file in your preferred web browser.
+## Installation
+
+1. **Clone the repository**:
+   
+   ```bash
+   git clone https://github.com/RawabyRahal/Weather-App.git
+   
+2. **Navigate to the project directory**:
+   
+    ```bash
+    cd my-recipes
+    
+3. **Install backend dependencies**:
+   
+    ```bash
+   npm install
+  
+## Running the Application
+1. **Start the backend server**:
+   
+   ```bash
+   node server.js
+2. **Access the application**:
+   
+   Open your web browser and navigate to http://localhost:8585.
