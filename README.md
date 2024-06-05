@@ -7,7 +7,7 @@ Welcome to the Recipe App! This app allows users to search for recipes that cont
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/RawabyRahal/Weather-App.git
+   git clone https://github.com/RawabyRahal/Recipe-App.git
    
 2. **Navigate to the project directory**:
    
