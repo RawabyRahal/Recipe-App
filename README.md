@@ -29,3 +29,7 @@ This app allows users to search for recipes that contain a specific ingredient s
 2. **Access the application**:
    
    Open your web browser and navigate to http://localhost:8585.
+
+### Enjoy Cooking!
+
+Get inspired and start cooking delicious meals with the recipes you discover on the Recipe App.
