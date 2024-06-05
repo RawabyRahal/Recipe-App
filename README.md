@@ -2,7 +2,7 @@
 
 Welcome to the Recipe App!
 
-This app allows users to search for recipes that contain a specific ingredient specific ingredients or multiple ingredients and displays them.
+Whether you're a seasoned chef or a culinary novice, our app is here to help you discover delicious recipes to satisfy your cravings.
 
 ## Installation
 
