@@ -6,12 +6,12 @@ Whether you're a seasoned chef or a culinary novice, our app is here to help you
 
 # Technologies Used
 
-## Frontend
+### Frontend
 - HTML (Hypertext Markup Language)
 - CSS (Cascading Style Sheets)
 - JavaScript (JS)
 
-## Backend
+### Backend
 - Express.js (Node.js web application framework)
 - Node.js (JavaScript runtime environment)
 - MVC (Model-View-Controller design pattern)
