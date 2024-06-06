@@ -4,7 +4,7 @@ Welcome to the Recipe App!
 
 Whether you're a seasoned chef or a culinary novice, our app is here to help you discover delicious recipes to satisfy your cravings.
 
-## Technologies Used
+## ⚙️ Technologies Used
 
 ### Frontend
 - HTML (Hypertext Markup Language)
@@ -16,7 +16,7 @@ Whether you're a seasoned chef or a culinary novice, our app is here to help you
 - Node.js (JavaScript runtime environment)
 - MVC (Model-View-Controller design pattern)
 
-## Libraries and Tools
+## 🛠️ Libraries and Tools
 - body-parser (Middleware for Express.js)
 - Axios (Promise-based HTTP client for JavaScript)
 - faker-js/faker (Library for generating fake data)
